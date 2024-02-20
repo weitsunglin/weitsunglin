@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![fucking_penguin](https://github.com/weitsunglin/weitsunglin/blob/main/fucking_penguin.jpg  )        
+
 <!--
 **weitsunglin/weitsunglin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
