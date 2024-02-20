@@ -1,3 +1,3 @@
 ### This is my food ↓ 👋
 
-![fucking_penguin](https://github.com/weitsunglin/weitsunglin/blob/main/fucking_penguin.jpg  )        
+![fucking_penguin](https://github.com/weitsunglin/weitsunglin/blob/main/fucking_penguin.jpeg  )        
