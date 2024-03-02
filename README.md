@@ -1,1 +1,1 @@
-![my_code_exp](https://github.com/weitsunglin/weitsunglin/blob/main/code_exp.png)
+![code_exp_figure](https://github.com/weitsunglin/weitsunglin/blob/main/code_exp_figure.png)
