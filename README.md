@@ -1,7 +1,8 @@
 ![code_exp_figure](https://github.com/weitsunglin/weitsunglin/blob/main/code_exp.png)
 
 
-![fucking_penguin](https://github.com/weitsunglin/weitsunglin/blob/main/fucking_penguin.jpeg)
+<img src="https://github.com/weitsunglin/weitsunglin/blob/main/fucking_penguin.jpeg" width="300" height="200" />
+
 
 
 <!-- ![code_exp_figure](https://github.com/weitsunglin/weitsunglin/blob/main/github_clone_counts.png)-->
