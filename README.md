@@ -1,7 +1,7 @@
 ![code_exp_figure](https://github.com/weitsunglin/weitsunglin/blob/main/code_exp.png)
 
 
-<img src="https://github.com/weitsunglin/weitsunglin/blob/main/fucking_penguin.jpeg" width="500" height="500" />
+<img src="https://github.com/weitsunglin/weitsunglin/blob/main/fucking_penguin.jpeg" width="500" height="300" />
 
 
 
