@@ -6,7 +6,7 @@
 
 # 典故
 
-<img src="https://github.com/weitsunglin/weitsunglin/blob/main/典故.jpg" width="500" height="300"/>
+<img src="https://github.com/weitsunglin/weitsunglin/blob/img_請勿亂看/揮淚典故.jpg" width="500" height="300"/>
 
 <!--# 情境-->
 
