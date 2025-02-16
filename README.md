@@ -1,5 +1,5 @@
 # 主推
-<img src="https://github.com/weitsunglin/weitsunglin/blob/main/img_%E8%AB%8B%E5%8B%BF%E4%BA%82%E7%9C%8B/%E5%9B%9B%E4%BA%BA%E5%B0%8F%E9%9A%8A.jpg" width="500" height="300"/>
+<img src="https://github.com/weitsunglin/weitsunglin/blob/main/img_%E8%AB%8B%E5%8B%BF%E4%BA%82%E7%9C%8B/happy_learning.jpg" width="500" height="300"/>
 
 <!--![code_exp_figure](https://github.com/weitsunglin/weitsunglin/blob/main/code_exp.png)-->
 <!--
