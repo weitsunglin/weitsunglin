@@ -1,4 +1,4 @@
-# 主推
+# 主推_熱愛學習的小毛
 <img src="https://github.com/weitsunglin/weitsunglin/blob/main/img_%E8%AB%8B%E5%8B%BF%E4%BA%82%E7%9C%8B/happy_learning.jpg" width="500" height="300"/>
 
 <!--![code_exp_figure](https://github.com/weitsunglin/weitsunglin/blob/main/code_exp.png)-->
